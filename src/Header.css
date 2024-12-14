@@ -1,0 +1,77 @@
+.head{
+    background-image: url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png);
+    background-size: 100%100%;
+    background-position: 100%100%;
+    background-repeat: no-repeat;
+    height: 30rem;
+}
+/* .head1{
+    display: flex;
+} */
+.snip1135 {
+    /* font-family: 'Raleway', Arial, sans-serif; */
+    /* text-align: center; */
+    /* text-transform: uppercase; */
+    font-weight: 500;
+  }
+  .snip1135 * {
+    box-sizing: border-box;
+  }
+  .snip1135 li {
+    display: inline-block;
+    list-style: outside none none;
+    margin: 0 1.5em;
+    padding: 0;
+  }
+  .snip1135 a {
+    padding: 0.5em 0;
+    color: rgba(255, 255, 255, 0.5);
+    position: relative;
+    letter-spacing: 1px;
+    text-decoration: none;
+  }
+  .snip1135 a:before,
+  .snip1135 a:after {
+    position: absolute;
+    -webkit-transition: all 0.35s ease;
+    transition: all 0.35s ease;
+  }
+  .snip1135 a:before {
+    bottom: 0;
+    display: block;
+    height: 3px;
+    width: 0%;
+    content: "";
+    background-color: #db2846;
+  }
+  .snip1135 a:after {
+    left: 0;
+    top: 0;
+    padding: 0.5em 0;
+    position: absolute;
+    content: attr(data-hover);
+    color: #ffffff;
+    white-space: nowrap;
+    max-width: 0%;
+    overflow: hidden;
+  }
+  .snip1135 a:hover:before,
+  .snip1135 .current a:before {
+    opacity: 1;
+    width: 100%;
+  }
+  .snip1135 a:hover:after,
+  .snip1135 .current a:after {
+    max-width: 100%;
+  }
+  .navbar_zomato{
+    display: flex;
+    margin-top: 60px;
+  }
+  .navbar_zomato .search_nav ul li
+  {
+    list-style: none;
+  }
+  .navbar_zomato .header_nav ul li{
+    list-style: none;
+  }

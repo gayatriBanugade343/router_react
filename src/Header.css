@@ -66,6 +66,7 @@
   }
   .navbar_zomato{
     display: flex;
+    justify-content: center;
     margin-top: 60px;
   }
   .navbar_zomato .search_nav ul li
